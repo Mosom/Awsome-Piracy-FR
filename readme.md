@@ -149,14 +149,15 @@ En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Fran
 ## VPNs
 
 ### VPN Guides and Tutorials <!-- Lire et Traduire  -->
-- [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) VPN section of That One Privacy Site with VPN comparisons
-- [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide to Choosing the Best VPN (for you)
-- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) Helpful FAQ-type resource composed by the folks at /r/VPN
-- [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
-- [Which VPN services keep you anonymous in 2018?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) TorrentFreak article by Ernesto
-- [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
-- [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
-- [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
+- [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) Partie comparateur de VPN de thatoneprivacysite 
+- [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide pour choisir le meilleur VPN pour vous.
+- [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) FAQ sur les VPN par le /r/VPN
+- [Choisir le bon VPN pour vous](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Guide de EFF
+- [Quelle VPN vous garde Anonyme en 2018 ?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) Article de TorrentFreak par Ernesto
+- [privacytools.io](https://www.privacytools.io/) "Cryptage contre la surveillance de masse". Enormément d'information pour vous protégez sur internet.
+- [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) Page ArchWiki decrivant comment faire un VPN du pauvre avec un tunnel SSH.
+- [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) Un endroit pour discuter de torrent (et le protocole P2P) en utilisant un VPN.
+- [Choisir son VPN le crabe.info] (https://lecrabeinfo.net/quel-vpn-choisir-en-2018-guide-debutants-gratuit-payant-meilleur-vpn.html) :FR: Guide pour choisir son VPN 
 
 ### VPN Subscription Services <!-- Lire et Traduire  -->
 - [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
