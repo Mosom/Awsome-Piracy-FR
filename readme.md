@@ -19,7 +19,7 @@ Ceci est une version Française de "Awsome Piracy" fait par Igglybuff, que vous 
 Cette liste possède un mirroir sur [PasteBin] que je n'ai pas encore fait :D
 
 ## Comment utiliser cette liste ? 
-Certains sites dans cette listes rentrent facilement dans plusieurs catégories, n'hésitez pas à utiliser `Ctrl + F` (or `Cmd + F` on macOS) pour trouver ce que vous voulez.
+Certains sites dans cette listes rentrent facilement dans plusieurs catégories, n'hésitez pas à utiliser `Ctrl + F` (ou `Cmd + F` sur Mac) pour trouver ce que vous voulez.
 
 ## Emoji
 Vous pourrez remarquer que certains sites ont une :star2:. Les sites avec une :star2: représente les sites favoris de l'auteur ORIGINAL dans leur catégories respective. Cette une opinion personelle pour des personnes qui ne connaisent rien, cependant jettez toujours un coup d'oeil aux alternatives pour faire le bon choix. J'explore et j'essaye toujours les sites mis sur cette liste autant que je le peux.
