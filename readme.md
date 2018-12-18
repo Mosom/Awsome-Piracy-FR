@@ -6,12 +6,13 @@
 Ceci est une version Française de "Awsome Piracy" fait par Igglybuff, que vous retrouverais [ICI] (https://github.com/Igglybuff/awesome-piracy). En plus d'une traduction pas forcément nécessaire, vous pourrez voir des ajouts ainsi que des mises en gardes pour certains sites (TO DO). Le but étant de mettre en avant la scène française, ainsi que de vous proteger de vous même. Je vous laisse avec le message original du créateur.
 
 >Depuis quelques années j'ai accumulé un certains nombres de favoris, de posts Reddit et de page GitHub plus ou moins relié au piratage. Cette liste est un essai pour structuré ces ressources et les partager. Tout ce dont vous avez besoins pour demarrer votre carrière de pirate ce trouve ci-dessous.
-
->Je sais que nombre de sites dans cette listes préfèrent rester dans l'ombre, et cette liste peut contribuer à leur fermeture via un trop grande exposition. Je suis désolé pour cela - J'aime juste faire des listes.
-
+>
+>Je sais que nombre de sites dans cette listes préfèrent rester dans l'ombre, et cette liste peut contribuer à leur fermeture via une trop grande exposition. Je suis désolé pour cela - J'aime juste faire des listes.
+>
 >Soyez sure d'avoir un bloqueur de pub [uBlock Origin](https://github.com/gorhill/uBlock) pour acceder à tous ces sites, sinon vous risquez de vivre un movais moment.
-
+>
 >Si vous voulez discuter et donner des retour, faites le s'il vous plait [sur le thread Reddit dedié sur le /r/Piracy](https://old.reddit.com/r/Piracy/comments/9nontk/awesome_piracy_a_curated_list_of_awesome_warez/). Si vous tombez sur des liens morts n'hesitez pas à le faire savoir [en créant un rapport](https://github.com/Igglybuff/awesome-piracy/issues/new).
+>
 >Igglybuff
 
 ## Mirrors
@@ -22,7 +23,7 @@ Certains sites dans cette listes rentrent facilement dans plusieurs catégories,
 
 ## Emoji
 Vous pourrez remarquer que certains sites ont une :star2:. Les sites avec une :star2: représente les sites favoris de l'auteur ORIGINAL dans leur catégories respective. Cette une opinion personelle pour des personnes qui ne connaisent rien, cependant jettez toujours un coup d'oeil aux alternatives pour faire le bon choix. J'explore et j'essaye toujours les sites mis sur cette liste autant que je le peux.
-En plus de cela, vour pourrez remarquer un :FR:, ce sont pour les sites en Français, ainsi vous pourrez avoir un plus large choix et vous pourrez vous tournez vers ces sites si vous etes anglophobes ;).
+En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Français, ainsi vous pourrez avoir un plus large choix et vous pourrez vous tournez vers ces sites si vous etes anglophobes ;).
 
 ## Background Information
 - [Une liste Wikipedia de site de partage de fichier](https://en.wikipedia.org/wiki/Category:File_sharing)
