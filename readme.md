@@ -429,51 +429,49 @@ is a torrent site providing verified torrents for all kinds of content.
 - [ZXCFiles](http://www.zxcfiles.net) Un service similaire qui permet de copié un lien magnet or un fichier de torrent et d'avoir un lien de telechargement direct. Les 20 premier Go sont gratuit.
 - [Bitport.io](https://bitport.io/) Un autre site de telechargmeent direct pour les lien magnet ou fichier .torrent. Les comptes gratuits ont 1Go offert.
 
-#### Seedbox Hosting Providers <!-- Lire et Traduire  -->
+#### Seedbox Hosting Providers
 - [novaDedi](https://novadedi.net/index.php) novaDedi aussi connu pour etre metaDedi a été crée pour vous aider a trouver les serveurs dédié le moins chère pour votre futur utilisation.
- formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
 - [CheckServers.OVH](https://checkservers.ovh/) Verifie la disponibilité des serveurs OVH.Checks the availability of OVH servers.
 - [Kimsufi](https://www.kimsufi.com/uk/) Serveurs dédié abordable.
-Affordable dedicated servers
 - [Online.net](https://www.online.net/en) :star2: Serveur dédié Seedbox-friendly et abordable.
-, dedicated server host
 - [Heztner](https://hetzner.co.za/) Hote de serveurs de confiance et abordable.
-Reliable and affordable server host
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Utilisateur Reddit avec de bonnes offres sur les serveurs et les seedboxs.
- user with good deals on servers and seedboxes
 - [Bytesized Hosting](https://bytesized-hosting.com/) "Le meilleur hote pour server Plex"
-The best Plex server hosting in town"
-- [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
-- [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
-- [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
-- [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
-- [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
-- [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
-- [Xirvik](https://www.xirvik.com/) Preconfigured seedbox servers
-- [OVH](https://www.ovh.com/world/) Large cloud server provider
-- [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host
-- [PulsedMedia](https://pulsedmedia.com/) Inexpensive seedbox provider
-- [Cloudboxes.io](https://cloudboxes.io/) Seedboxes with impressive 20Gbps uplinks
-- [Seedbox.io](https://seedbox.io/) Shared and dedicated slots with 1Gbps+ uplinks
+- [FeralHosting](https://www.feralhosting.com/pricing) Fournisseur de seedbox partagé.
+- [Whatbox](https://whatbox.ca/) Whatbox est un réseau de diffusion de contenu BitTorrent
+- [Seedboxes.cc](https://seedboxes.cc/) Hebergeur de confiance et abordable. 
+- [UltraSeedbox](https://www.ultraseedbox.com/) Location de serveur "optimisé pour Plex"
+- [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu est le plus vieille hebergeur de seedbox sur internet"
+- [Chmuranet](https://www.chmuranet.com/) Chmuranet est un petit hebergeur privé.
+- [Xirvik](https://www.xirvik.com/) Serveur de seedbox préconfiguré.
+- [OVH](https://www.ovh.com/world/) Fournisseur de serveur cloud.
+- [SoYouStart](https://www.soyoustart.com/us/) Un autre fournisseur de serveur dédié.
+- [PulsedMedia](https://pulsedmedia.com/) Fournisseur de seedbox VRAIMENT pas cher.
+- [Cloudboxes.io](https://cloudboxes.io/) Seedboxes avec un impressionnant 20 Gps en debit montant.
+- [Seedbox.io](https://seedbox.io/) Seedbox partagé et dédié avec 1Gbps+ de débit montant.
 
-#### Seedbox Setup Tools and Guides <!-- Lire et Traduire  -->
-- [swizzin](https://swizzin.ltd/) a light, modular package management suite for media-oriented servers
-- [Seedbox Guide](https://seedboxgui.de/) comparison tool to help you find the best fitting Seedbox
-- [rtinst](https://github.com/arakasi72/rtinst) seedbox installation script for Ubuntu and Debian systems
-- [sboxsetup](https://github.com/dannyti/sboxsetup) Another seedbox setup script
-- [QuickBox IO](https://quickbox.io/) Seedbox installer script
-- [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
-- [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
-- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
-- [OpenFLIXR](http://www.openflixr.com/) OpenFLIXR Media Server is an all-in-one media server for automated downloading and serving media.
+#### Seedbox Setup Tools and Guides
+- [swizzin](https://swizzin.ltd/) Un gestionnaire modulable et leger pour les serveurs orienté média.
+ light, modular package management suite for media-oriented servers
+- [Seedbox Guide](https://seedboxgui.de/) Un outils de comparaison pour trouver la meilleur config de seedbox. <!-- a verifier  -->
+comparison tool to help you find the best fitting Seedbox
+- [rtinst](https://github.com/arakasi72/rtinst) Script d'installation de seedbox pour Unbuntu et Debian.
+seedbox installation script for Ubuntu and Debian systems
+- [sboxsetup](https://github.com/dannyti/sboxsetup) Un autre script d'installation de seedbox.
+Another seedbox setup script
+- [QuickBox IO](https://quickbox.io/) Idem à son voisin du dessus.
+- [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc] <!-- Lire et Traduire  -->
+- [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy. <!-- Lire et Traduire  -->
+- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker. <!-- Lire et Traduire  -->
+- [OpenFLIXR](http://www.openflixr.com/) OpenFLIXR Media Server est un serveur multimédia tout-en-un pour le téléchargement et la diffusion automatisés de médias.
 
-### Tracker Frameworks <!-- Lire et Traduire  -->
-- [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
-- [UNIT3D](https://github.com/HDInnovations/UNIT3D) The Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)
-- [meanTorrent](https://github.com/taobataoma/meanTorrent) A BitTorrent Private Tracker CMS with Multilingual, and IRC announce support, CloudFlare support.
-- [NexusPHP](https://github.com/ZJUT/NexusPHP) BitTorrent private tracker scripts written in PHP.
-- [Gazelle](https://whatcd.github.io/Gazelle/) :star2: web framework geared towards private torrent trackers with a focus on music
-- [opentracker](https://erdgeist.org/arts/software/opentracker/) opentracker is an open and free BitTorrent tracker project.
+### Tracker Frameworks
+- [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) Une liste de platforme pour tracker codé dans plusieurs language.
+- [UNIT3D](https://github.com/HDInnovations/UNIT3D) La nouvelle generation du framework de tracker.
+- [meanTorrent](https://github.com/taobataoma/meanTorrent) Un framework de torrent privé avec support multi-langue, un support d'annonce IRC et un support CloudFlare.
+- [NexusPHP](https://github.com/ZJUT/NexusPHP) Un framework de torrent codé en PHP.
+- [Gazelle](https://whatcd.github.io/Gazelle/) :star2: Un framework de tracker web orienté musique.
+- [opentracker](https://erdgeist.org/arts/software/opentracker/) opentracker est un projet de framework de tracker ouvert et gratuit.
 
 ## Usenet <!-- Lire et Traduire  -->
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) Usenet is a worldwide distributed discussion system available on computers.
@@ -529,49 +527,51 @@ The best Plex server hosting in town"
 - [alt.binz](https://www.altbinz.net/) alt.binz is a powerful binary newsreader, for downloading and managing articles from Usenet.
 
 ## Direct Downloads
+<!-- Idem que pour la catégories TORRENT fair un peu de terminologie etc   -->
 
-### Download Managers <!-- Lire et Traduire  -->
-- [JDownloader2](http://www.jdownloader.org/home/index) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
-- [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
-- [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
+### Download Managers 
+- [JDownloader2](http://www.jdownloader.org/home/index) :star2: JDownloader est un gestionnaire de telechargement gratuit, open source avec une grande communauté de developpeur qui font en sorte que le telechargement soit simple et rapide.
+ is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- [Internet Download Manager](https://www.internetdownloadmanager.com/) Un gestionnaire pour Windows en sharware.
+- [pyLoad](https://pyload.net/) Un gestionnaire gratuit et open source ecrit en Python et designé pour etre leger et facilement amelioré et completement parametrable via le web. 
 
-### DDL Tools <!-- Lire et Traduire  -->
-- [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
-- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
-- [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
-- [YouTube MP3 Rip](https://youtubemp3.rip/) Download YouTube music videos as MP3 files without registration
-- [Leonflix](https://leonflix.net/) :star2: A multi-platform desktop app for finding movies and TV shows.
-- [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
-- [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
-- [megatools](https://github.com/megous/megatools) Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage.
-- [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy for your files.
-- [netclix](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API
-- [FilePursuit](https://filepursuit.com) :star2: FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
-- [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Not likely to find much with this one but interesting nonetheless
-- [annie](https://github.com/iawia002/annie) Fast, simple and clean video downloader
-- [aria2](https://aria2.github.io/) a lightweight multi-protocol & multi-source command-line download utility.
-- [Persepolis](https://persepolisdm.github.io/) Front-end for aria2.
-- [axel](https://github.com/axel-download-accelerator/axel) light command line download accelerator
-- [uGet](https://ugetdm.com/) Open Source Download Manager
-- [ripme](https://github.com/RipMeApp/ripme) A album/video downloader with support for over 80 sites
-- [rdcli](https://github.com/ston3o/rdcli) The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid
-- [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
-- [MEGAsync](https://mega.nz/sync) Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
-- [wget](https://www.gnu.org/software/wget/) `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
-- [wget - a noob's guide](https://chris.partridge.tech/data/wget-noobs.pdf) Beginner guide on how to use `wget`
-- [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
-- [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
-- [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
+### DDL Tools
+- [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl est un programme en ligne de commande pour telecharger des videos depuis youtube et certains autres sites.
+- [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) Une interface multi-plateform pour youtube-dl ecrit en wxPython.
+- [youtube-dl-helper](https://youtube-dl-helper.github.io/) Utilise youtube-dl pour telecahrger depuis d'autres sites sans utiliser de ligne de commandes.
+- [YouTube MP3 Rip](https://youtubemp3.rip/) Permet de telecharger des musiques sur Youtube en MP3 sans enregistrement.
+- [Leonflix](https://leonflix.net/) :star2: Une application muti-platform pour trouver des films et des emmissions TV.
+- [maulvi.github.io](https://maulvi.github.io/) Generateur de lien de telecahrgment direct Google Drive
+- [RapidLeech](https://github.com/Th3-822/rapidleech) Un script gratuit pour transferer des fichiers de plusieurs sites comme uploaded.net, Rapidgator.net et plus de 127 autres.
+- [megatools](https://github.com/megous/megatools) Un outils en ligne de commande et une librairie C(libmega) pour acceder au cloud de Mega.co.nz
+- [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js vous permet de partager vos fichier Mega.nz sans partager le lien directment en cryptant les liens avec des serveurs proxies.
+- [netclix](https://github.com/ston3o/netclix) A simple CLI tool to get movie streaming premium links from VodLocker's API <!-- Lire et Traduire  -->
+- [FilePursuit](https://filepursuit.com) :star2: FilePursuit vous donne un index très puissant ainsi qu'un moteur de recherche permettant de chercher parmis des millions de fichiers.
+- [grayhatwarfare S3 bucket search](https://buckets.grayhatwarfare.com/) Ne vous attendez pas a trouver enormement de choses mais interessant malgrès tout.
+- [annie](https://github.com/iawia002/annie) Telechargement de video facile, rapide et propre.
+- [aria2](https://aria2.github.io/) Un utilitaire de telechargement en ligne de commande leger multi-protocol et multi-source.
+- [Persepolis](https://persepolisdm.github.io/) Front-end pour aria2.
+- [axel](https://github.com/axel-download-accelerator/axel) Un accelerateur de telechargement leger en ligne de commande.
+- [uGet](https://ugetdm.com/) Gestionnaire de telechargement open source 
+- [ripme](https://github.com/RipMeApp/ripme) Un gestionnaire de telechargement d'album ou de film supporté par 80 sites.
+- [rdcli](https://github.com/ston3o/rdcli) La manière la plus simple de telecharger sans restriction torrent et lien magnets sur Real-Debrid. 
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer) Un utilitaire pour telecahrger des programmes TV ou radio de la BBC via leur iPlayer.
+- [MEGAsync](https://mega.nz/sync) Un synchronisateur entre votre PC et votre compte MEGA. Peut aussi stream les videos directement.
+- [wget](https://www.gnu.org/software/wget/) `wget` est un outils gratuit et open source pour telecharger en utilisant les protocoles HTTP, HTTPS, FTP et FTPS. Il peut etre facilement appeller par des scripts ou autres.
+- [wget - a noob's guide](https://chris.partridge.tech/data/wget-noobs.pdf) Un guide de débutant pour `wget`
+- [wget for Windows](https://eternallybored.org/misc/wget/) Un utilitaire en ligne de commande pour retrouver des fichiers utilisant les protocoles HTTP, HTTPS et FTP.
+- [curl](https://en.wikipedia.org/wiki/CURL) `curl` est un outils en ligne de commande pour telecharger des données de différents protocole. Peut etre facilement installé sur tout les OS.
+- [FlixGrab](https://www.flixgrab.com/) FlixGrab+ est une application unique pour telecharger sur Netflix.
 
-### Custom Google Search Engines <!-- Lire et Traduire  -->
-- [FileChef](http://filechef.com/) These
-- [The Eye CGS Engine](https://cgs.the-eye.eu/) all
-- [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) do
-- [lumpySoft.com](https://lumpysoft.com/) the
-- [mattpalm.com/search](https://mattpalm.com/search/) same
-- [Filer](https://rsch.neocities.org/gen2/filer.html) thing :)
-- [Musgle](http://www.musgle.com/) Searches specifically for music
-- [Jimmyr](http://www.jimmyr.com/mp3_search.php) Also searches for music
+### Custom Google Search Engines 
+- [FileChef](http://filechef.com/) Ces 
+- [The Eye CGS Engine](https://cgs.the-eye.eu/) sites
+- [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) font
+- [lumpySoft.com](https://lumpysoft.com/) la
+- [mattpalm.com/search](https://mattpalm.com/search/) même
+- [Filer](https://rsch.neocities.org/gen2/filer.html) choses :)
+- [Musgle](http://www.musgle.com/) Recherche spécifique pour la musique.
+- [Jimmyr](http://www.jimmyr.com/mp3_search.php) Permet aussi de chercher de la musique.
 
 ### FTP Indexers <!-- Lire et Traduire  -->
 - [Davos](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
