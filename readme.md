@@ -157,7 +157,7 @@ En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Fran
 - [privacytools.io](https://www.privacytools.io/) "Cryptage contre la surveillance de masse". Enormément d'information pour vous protégez sur internet.
 - [VPN par SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) Page ArchWiki decrivant comment faire un VPN du pauvre avec un tunnel SSH.
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) Un endroit pour discuter de torrent (et le protocole P2P) en utilisant un VPN.
-- [Choisir son VPN le crabe.info] (https://lecrabeinfo.net/quel-vpn-choisir-en-2018-guide-debutants-gratuit-payant-meilleur-vpn.html) 🥖 Guide pour choisir son VPN 
+- [Choisir son VPN le crabe.info](https://lecrabeinfo.net/quel-vpn-choisir-en-2018-guide-debutants-gratuit-payant-meilleur-vpn.html) 🥖 Guide pour choisir son VPN 
 
 ### VPN Subscription Services 
 - [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Un fournisseur de VPN très populaire connue pour ne pas garder de traces.
@@ -220,7 +220,7 @@ En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Fran
 - [LastPass](https://www.lastpass.com/) LastPass se rapelle de vos mots de passes à votre place.
 - [Pass](https://www.passwordstore.org/) Un simple gestionnaire pour vos mots de passes GPG/GitSimple GPG/Git.Suis la phylosophie Unix.
 - [Dashlane](https://www.dashlane.com/) Un gestionnaire intuitif avec 8 million d'utilisateurs.
-- [Passbolt](https://www.passbolt.com/) Gratuit, open source, auto-hebergé, Free, extensible et basé sur OpenPGP.
+- [Passbolt](https://www.passbolt.com/) Gratuit, open source, auto-hebergé, extensible et basé sur OpenPGP.
 - [LessPass](https://lesspass.com/) Gestionnaire apatride et open source.
 - [Psono](https://psono.com/) Gestionnaire de mots de passes open source et auto-hebergé pour des équipes.
 
@@ -286,37 +286,37 @@ for any IP address.
 - [Bravo List](http://www.bvlist.com/) Un répertoire de Tracker.
 
 #### Private Trackers <!-- Lire et Traduire  -->
-- [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
-- [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
-- [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) Open signups on the 1st-2nd every month.
-- [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
-- [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
-- [BeyondHD](https://beyondhd.xyz/) (BHD) BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
-- [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
-- [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audio books.
-- [Blutopia](https://blutopia.xyz) (BLU) Blutopia is a private tracker for HD movies and HD TV shows.
-- [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
-- [Filelist](https://filelist.ro/) (FL) Large Romanian general tracker with mostly English content. No RAR files allowed. (Scene torrents are unrared, and then allowed.)
-- [GazelleGames](https://gazellegames.net/login.php) (GGn) Currently the largest private tracker for games.
-- [HD-Forever](https://hdf.world/) (HD-F) HD-Forever is a French private tracker for HD movies.
-- [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. Good tracker for beginners.
-- [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
-- [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on Asian music.
-- [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
-- [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
-- [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
-- [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
-- [PrivateHD](https://privatehd.to/) (PHD) PrivateHD is a private BitTorrent tracker focused on high definition movies and TV show torrents.
-- [Redacted](https://redacted.ch/) (RED) Largest private music tracker at 1.5 million torrents.
-- [TheGeeks](https://thegeeks.click/) (TGBZ) Private tracker for e-learning
-- [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
-- [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
-- [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
-- [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
-- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
-- [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
+- [AlphaRatio ](https://alpharatio.cc) (AR) :star2: Un bon Tracker avec beacoup de contenu en freelech.
+- [AnimeBytes](https://animebytes.tv/) (AB) Une communauté centré sur les media Japonais ce qui inclus : les animés, mangas et la musique Japonaise.
+- [Audionews](https://audionews.org/) (AN) Tracker privé pour la production musicale (Appli Dj, editeur audio, applis DAW etc)Inscritption ouverte les 1er et 2 du mois.
+- [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD tracker privé pour les fanas de HD.
+- [BakaBT](https://bakabt.me/) (BBT) Un tracker spécialisé pour les fans d'animé.
+- [BeyondHD](https://beyondhd.xyz/) (BHD) BeyondHD est un tracker sans ratio dédié aux films et émission de télé en HD.
+- [Bibliotik](https://bibliotik.me/) (BI) Un tracker populaire pour les ebooks et livres audio.
+- [Bitspyder](http://bitspyder.net/) (BS) Bitspyder est un tracker spécialisé en ebooks, cours video et livre audio.
+- [Blutopia](https://blutopia.xyz) (BLU) Blutopia est un tracker privé pour les films et émissions de télé en HD.
+- [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers est un tracker privé pour les plus infographiste d'entre vous : tuto, logiciels dédié, 3D, effets visuels, design et art assisté par ordinateur.
+- [Filelist](https://filelist.ro/) (FL) Tracker Roumain avec la pluspart du temps du contenu Anglais. Les fichier RAR sont interdits (Les torrent des grand groupes sont décompresser puis autorisé.)
+- [GazelleGames](https://gazellegames.net/login.php) (GGn) Actuellement le plus gros tacker de jeux vidéo.
+- [HD-Forever](https://hdf.world/) 🥖 (HD-F) HD-Forever est un tracker privé Français pour les films HD.
+- [HD-Space](https://hd-space.org/) (HDS) HD-Space est un tracker privé hebergeant : des films HD, emissions TV et de la musique. Un bon tracker pour les débutants.
+- [IPTorrents](https://iptorrents.com/) (IPT) Tracker privé avec des films, livres et plus.
+- [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki est un tracker focus sur la musique Asiatique.
+- [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Tracker privé pour l'E-Learning avec plus de 360 000 torrents incluant : des livres audio, de la musicologie et de la radio.
+- [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen est un tracker privé spécialisé en comedie, animation et series TV.
+- [Nostalgic Torrents](https://nostalgic.is/) (NT) Tracker privé pour : les animés, comics/manga, documentaire, film, emmission TV pré2013, emmissions TV pré2009 avec pub etc. Aussi connu comme The-Archive et HeyNow.
+- [PassThePopcorn](https://passthepopcorn.me/) (PTP) Tracker basé sur un ratio pour les films.
+- [PrivateHD](https://privatehd.to/) (PHD) PrivateHD est un tracker privé BitTorrent pour les films et emissions TV en HD.
+- [Redacted](https://redacted.ch/) (RED) Le plus gros tracker de musique avec 1.5 million de torrent 
+- [TheGeeks](https://thegeeks.click/) (TGBZ) Tracker privé pour l'e-learning
+- [TorrentLeech](https://torrentleech.org/) (TL) Tracker privé bien connue.
+- [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Tracker privé pour la TV Anglaise.
+- [UHDBits](https://uhdbits.org/) (UHD) UHDBits est un tracker privé Vietnamien pour les films et emmissions TV en HD.
+- [WorldOfP2P](https://worldofp2p.net) (WOP) Tracker privé pour les films et autres.
+- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) Une liste de trackers privés.
+- [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot d'un tableau trouvé on ne sait où des tracker privé et leurs conditions d'inscription.
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
-- [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
+- [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide pour entrer (et surtout survivre) dans le monde des trackers privés.
 - [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
 
