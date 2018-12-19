@@ -279,11 +279,11 @@ for any IP address.
 - [torrents.csv](https://gitlab.com/dessalines/torrents.csv) Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
 - [torrents-csv.ml](https://torrents-csv.ml) The above torrents.csv hosted.
 
-### Trackers <!-- Lire et Traduire  -->
-- [/r/trackers](https://www.reddit.com/r/trackers) :star2: A subreddit for discussing public & private trackers.
-- [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
-- [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter
-- [Bravo List](http://www.bvlist.com/) Tracker directory
+### Trackers 
+- [/r/trackers](https://www.reddit.com/r/trackers) :star2: Un subreddit pour discuter de trackers privé et public.
+- [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) Un bon tracker necessite que vous seediez ce que vous avec telecharger. Ce quige explique plusieurs méthode pour garder un bon ratio.
+- [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) Une liste de Trackers privés et de compte BitTorrent à suivre sur Twitter.
+- [Bravo List](http://www.bvlist.com/) Un répertoire de Tracker.
 
 #### Private Trackers <!-- Lire et Traduire  -->
 - [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
