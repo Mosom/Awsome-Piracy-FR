@@ -268,6 +268,7 @@ for any IP address.
 - [OpenLeaf](https://openleaf.net.ru/) Domain registrar for anonymous TLD purchases
 
 ## Torrenting <!-- Lire et Traduire  -->
+<!-- Faire une section ou sont expliqué les differents termes : indexeurs, aggrégateurs, tracker public/privé, torrent vérifié, seedbox, webtorrent client, lien magnet   -->
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
@@ -315,85 +316,97 @@ for any IP address.
 - [WorldOfP2P](https://worldofp2p.net) (WOP) Tracker privé pour les films et autres.
 - [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) Une liste de trackers privés.
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot d'un tableau trouvé on ne sait où des tracker privé et leurs conditions d'inscription.
-- [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
+- [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date. <!-- Lire et Traduire  -->
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide pour entrer (et surtout survivre) dans le monde des trackers privés.
-- [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know in order to pass the RED interview.
-- [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
+- [RED Interview Prep](https://interviewfor.red/en/index.html) Ce site a été écrit comme un guide pour apprendre les formats audio, transcodage, torrent et la gravure et le dump de musique. En bref, tout pour pouvoir uploader sur le Tracker RED interviewer.
+- [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date) <!-- Lire et Traduire  -->
 
-#### Semi-Private Trackers <!-- Lire et Traduire  -->
-- [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
-- [Zamunda.net](http://zamunda.net) A Bulgarian tracker with English and Russian translations available.
-- [ArenaBG](https://arenabg.com/) A Bulgarian tracker with an English translation available.
-- [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
+#### Semi-Private Trackers
+- [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker est un énorme site torrent russe doté d'une communauté de partage de fichiers florissante.
+- [Zamunda.net](http://zamunda.net) Un tracker bulgare avec des traductions en anglais et en russe disponibles.
+- [ArenaBG](https://arenabg.com/) Un tracker bulgare avec une traduction en anglais disponible.
+- [NoNaMe Club](https://nnmclub.to/) Tracker  et un forum semi-privé russe
 
 #### Public Trackers <!-- Lire et Traduire  -->
-- [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
-- [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
-- [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
-- [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
-- [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
-- [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
-- [YTS](https://yts.am/) Small-size HD movies from YIFY
-- [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
-- [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
-- [Torrentz2](https://torrentz2.eu/) A good replacement of the defunct Torrentz.eu
-- [Idope (Clone)](https://idope.top/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
-- [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
-- [rutor](http://rutor.info/) Russian tracker
-- [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
-- [BTDB](https://btdb.to/) Large BitTorrent DHT search engine
-- [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
-- [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
-- [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI
-- [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
-- [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
-- [SkyTorrents](https://www.skytorrents.lol/) Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
-- [Pirateiro](http://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
-- [TorrentKing](https://torrentking.io/) Torrentking is a popular movie torrent site.
-- [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
-- [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
-- [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
-- [HDSector](http://udush.com/) Bollywood / Hindi / Hollywood HD Movies
-- [OTorrents](https://otorrents.com/) Yet another public torrent tracker
-- [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
-- [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
-- [Torrent9](https://www.torrent9.ph/) French torrent search engine
-- [YggTorrent](https://www3.yggtorrent.to/) French tracker and search engine (have a download/upload ratio limitation)
-- [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
+- [1337x](https://1337x.to/) 1337x est un site de torrent qui offre des torrent vérifié (sans malware).
+- [ETTV](https://www.ettv.tv/) ETTV est un tracker pour les films.
+- [EZTV](https://eztv.ag/) EZTV est un site de toreent pour les emmissions de TV fondé par le groupe EZTV.
+- [Isohunt2](https://isohunt2.net/) Un clone de l'original isoHunt.
+- [KickAss Torrents](https://katcr.co/) Une réincarnation fait par la communauté en 2016
+- [RARBG](https://rarbg.to/) :star2: Tracker public avec son propre groupe de sortie.
+- [YTS](https://yts.am/) Film leger en HD de la scene YIFI
+- [The Pirate Bay](https://thepiratebay.org/) Il est temps de laisser ce site ne paix.
+- [The Proxy Bay](https://proxybay.bz/) Differents proxies pour acceder à TPB mais qui en a vraiment envie ... 
+- [Torrentz2](https://torrentz2.eu/) Un bon remplacant au defunt Torrentz.eu
+- [Idope (Clone)](https://idope.top/) iDope est une moteur de recherce donnant des liens magnets, des commentaire et des stats de seed/leech à jour.
+- [Zooqle](https://zooqle.com/) Zooqle est un nouvelle index de torrent avec un grande base de données de torrent verifé.
+- [rutor](http://rutor.info/) Un tracker Russe.
+- [GloTorrents](https://glodls.to/) Film, TV, jeux et autres gratuitement.
+- [BTDB](https://btdb.to/) Un gros moteur de recherche pour DHT.
+- [trackerslist](https://github.com/ngosang/trackerslist) Une liste mise a jour de tracker public.
+- [MagnetDL](http://www.magnetdl.com/) Moteur de recherche de lien magnet uniquement.
+- [TorrentGalaxy](https://torrentgalaxy.org/) Tracker public avec une interface propre.
+Public tracker with a clean UI
+- [Games4theworld](https://games4theworld.org) Torrents et liens magnets pour les jeux.
+ for games
+- [metal-tracker.com](http://en.metal-tracker.com/) Tracker spécialisé dans le metal.
+- [SkyTorrents](https://www.skytorrents.lol/) Renaissance du récent fermé, centré sur la vie privé sur le net et indexeur de torrent sans pub.
+Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
+- [Pirateiro](http://pirateiro.com/) Pirateiro est un indexeurs de torrent Brezillien et Portuguais.
+ is a torrent index for Brazilian and Portuguese torrents.
+- [TorrentKing](https://torrentking.io/) Torrentking est un site de torrent de film populaire.
+is a popular movie torrent site.
+- [moviemagnet](http://moviemagnet.co/) Torrent de film verifé.
+Verified torrents for movies.
+- [Zonatorrent](https://zonatorrent.tv/) Tracker espagnol
+Spanish tracker
+- [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk est un site de torrent founissant des torrents véfirié pour tous les genres de contenues.
+is a torrent site providing verified torrents for all kinds of content.
+- [HDSector](http://udush.com/) Film Bollywood / Hindi / Hollywood en HD
+- [OTorrents](https://otorrents.com/) Un autre tracker public.
+- [Torlock](https://www.torlock.com/) Torlock est un indexeurs de torrent et un moteur de recherche qui permet d'avoir les dernières emmissions TV et films.
+- [DIGBT](https://www.digbt.org/) DIGBT est un moteur de recherche de torrent DHT.
+ is a DHT torrent search engine.
+- [Torrent9](https://www.torrent9.ph/) 🥖 Moteur de recherche Français.
+ French torrent search engine
+- [YggTorrent](https://www3.yggtorrent.to/) 🥖 Tracker français avec un ratio à respecter. C'est le digne successeur de T411.
+- [WorldWide Torrents](https://worldwidetorrents.me/) Un autre tracker public.
 
-### Tracker Aggregators <!-- Lire et Traduire  -->
-- [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
-- [TParser](http://tparser.org/) Russian torrent sites indexer
-- [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
-- [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
-- [AIO Search](http://www.aiosearch.com/) Torrent search engine
-- [SolidTorrents](https://solidtorrents.net) :star2: A clean, privacy focused torrent search engine.
+### Tracker Aggregators 
+- [snowfl](https://snowfl.com/) snowfl est un aggregateur de torrent avec des indexeurs de torrent public très varié toujours en temps réel.
+- [TParser](http://tparser.org/) Indexeur de site de torrent Russe.
+- [Torrents.me](https://torrents.me/) Torrents.me combine site de torrent populaire et tracker privé spécialisé dans un moteur de recherche.
+- [rats-search](https://github.com/DEgITx/rats-search) Moteur de recherche P2P Bittorrent
+- [AIO Search](http://www.aiosearch.com/) Moteur de recherche pour les torrents.
+- [SolidTorrents](https://solidtorrents.net) :star2: Un moteur de recherce propre et orienté sur la vie privé de ces utilisateurs.
 
 ### Tracker Proxies <!-- Lire et Traduire  -->
 - [Jackett](https://github.com/Jackett/Jackett) API Support for your favorite torrent trackers.
 - [Cardigann](https://github.com/cardigann/cardigann) A proxy server for adding new indexers to Sonarr, SickRage, and other media managers
 - [nzbhydra2](https://github.com/theotherp/nzbhydra2/) :star2: Primarily a Usenet metasearch engine but also supports Torznab
 
-### Tracker Invites <!-- Lire et Traduire  -->
-- [/r/OpenSignups](https://www.reddit.com/r/opensignups) Open Signups - When Private Trackers Open Their Doors To The Public
-- [/r/Invites](https://www.reddit.com/r/invites) Post wanted ads for private tracker invites here
-- [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
-- [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
-- [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
-- [BTRACS](http://btracs.com/) an automatic information site which periodically checks closed community BitTorrent trackers for being open for signup.
+### Tracker Invites
+- [/r/OpenSignups](https://www.reddit.com/r/opensignups) Un subreddit pour etre prévenu lorsque les trackers privés ouvrent leurs inscription.
+ When Private Trackers Open Their Doors To The Public
+- [/r/Invites](https://www.reddit.com/r/invites) Un subreddit pour demander une invitation a un tracker privé bien précis.
+- [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) Un thread sur /r/trackers pour connaitre les trackers ouverts aux inscription.
+ for posting trackers that are currently open for registration.
+- [Opentrackers.org](https://opentrackers.org/) Site similaire a son compère du dessus.
+- [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Ressources utiles provenant du wiki du sub /r/trackers.
+- [BTRACS](http://btracs.com/) Similaire au /r/OpenSignups et Opentrackers.org.
 
-### Torrent Clients <!-- Lire et Traduire  -->
-- [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
-- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
-- [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
-- [Deluge](https://www.deluge-torrent.org/) Deluge is a lightweight, Free Software, cross-platform BitTorrent client.
-- [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
-- [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
-- [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
-- [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
-- [PicoTorrent](https://picotorrent.org/) Lightweight and minimalistic torrent client for Windows
-- [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
-- [peerflix](https://github.com/mafintosh/peerflix) Streaming torrent client for node.js
+### Torrent Clients
+- [qBitTorrent](https://www.qbittorrent.org/) Client de torrent populaire, leger et multi-platforme
+- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Vous permet de cherche des trackers populaire directement depuis qBitTorrent
+- [Transmission](https://transmissionbt.com/) client torrent par defaut dans beacoup de distrib. Unix .
+- [Deluge](https://www.deluge-torrent.org/) Deluge est un client de torrent leger, gratuit et multi-platforme.
+- [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time est un client de torrent avec un lecteur de média integré.
+- [Butter Project](http://butterproject.org/) Un fork de Popcorn Time qui peut etre parametrable pour acceuillir d'autre source de vidéo.
+- [BitLord](http://www.bitlord.com/) Un autre lecteur de torrent en direct.
+- [Tixati](https://tixati.com/) Un client leger pour Windows et Linux.
+- [PicoTorrent](https://picotorrent.org/) Un client leger et minimaliste pour Windows
+- [FrostWire](https://www.frostwire.com/) FrostWire est un client de torrent gratuit et open source sortie en Sept. 2004 comme un fork de LimeWire.
+- [peerflix](https://github.com/mafintosh/peerflix) Lecteur de torrent en direct pour node.js
 
 #### rTorrent <!-- Lire et Traduire  -->
 - [rTorrent](https://rakshasa.github.io/rtorrent/) :star2: rTorrent is a text-based ncurses BitTorrent client written in C++
@@ -404,26 +417,32 @@ for any IP address.
 - [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
 - [rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 
-#### WebTorrent Clients <!-- Lire et Traduire  -->
-- [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
-- [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
-- [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
-- [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
+#### WebTorrent Clients
+- [magnetoo](https://www.magnetoo.io/) Un site vous permettant de profité de votre torrent en streaming sur votre navigateur.
+- [βTorrent](https://btorrent.xyz/) et [WebTorrent](https://webtorrent.io/) Client en ligne ecrit en HTML, JS et CSS.
+- [WebTorrent Desktop](https://webtorrent.io/desktop/) Permet de lire en streaming vos torrent.
+- [Instant.io](https://instant.io/) Permet de lire en straming vos torrent via votre navigateur.
 
-### Seedboxes <!-- Lire et Traduire  -->
-- [/r/seedboxes](https://www.reddit.com/r/seedboxes) A place to discuss seedboxes and everything related to them.
-- [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
-- [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. First 20GB are free.
-- [Bitport.io](https://bitport.io/) Another direct download site for pasting magnet links or .torrent files. Free accounts offer 1GB for free.
+### Seedboxes 
+- [/r/seedboxes](https://www.reddit.com/r/seedboxes) Un endroit pour discuter et se renseigner sur les seedboxs et tous ce qui y est relié.
+- [Seedr](https://www.seedr.cc/) Une seedbox dans laquelle vous pouvez coller votre torrent et qui vous retourne un lien de streaming.
+- [ZXCFiles](http://www.zxcfiles.net) Un service similaire qui permet de copié un lien magnet or un fichier de torrent et d'avoir un lien de telechargement direct. Les 20 premier Go sont gratuit.
+- [Bitport.io](https://bitport.io/) Un autre site de telechargmeent direct pour les lien magnet ou fichier .torrent. Les comptes gratuits ont 1Go offert.
 
 #### Seedbox Hosting Providers <!-- Lire et Traduire  -->
-- [novaDedi](https://novadedi.net/index.php) novaDedi formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
-- [CheckServers.OVH](https://checkservers.ovh/) Checks the availability of OVH servers.
-- [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
-- [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
-- [Heztner](https://hetzner.co.za/) Reliable and affordable server host
-- [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
-- [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
+- [novaDedi](https://novadedi.net/index.php) novaDedi aussi connu pour etre metaDedi a été crée pour vous aider a trouver les serveurs dédié le moins chère pour votre futur utilisation.
+ formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
+- [CheckServers.OVH](https://checkservers.ovh/) Verifie la disponibilité des serveurs OVH.Checks the availability of OVH servers.
+- [Kimsufi](https://www.kimsufi.com/uk/) Serveurs dédié abordable.
+Affordable dedicated servers
+- [Online.net](https://www.online.net/en) :star2: Serveur dédié Seedbox-friendly et abordable.
+, dedicated server host
+- [Heztner](https://hetzner.co.za/) Hote de serveurs de confiance et abordable.
+Reliable and affordable server host
+- [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Utilisateur Reddit avec de bonnes offres sur les serveurs et les seedboxs.
+ user with good deals on servers and seedboxes
+- [Bytesized Hosting](https://bytesized-hosting.com/) "Le meilleur hote pour server Plex"
+The best Plex server hosting in town"
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
 - [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
 - [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
