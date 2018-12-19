@@ -1,6 +1,6 @@
 # Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of arrrrrrrrr!
+> A curated list of arrrrrrrrr! In French PLS!
 
 ## Preamble
 Ceci est une version Française de "Awsome Piracy" fait par Igglybuff, que vous retrouverez [ici](https://github.com/Igglybuff/awesome-piracy/). En plus d'une traduction pas forcément nécessaire, vous pourrez voir des ajouts ainsi que des mises en gardes pour certains sites (TO DO). Le but étant de mettre en avant la scène française, ainsi que de vous proteger de vous même. Je vous laisse avec le message original du créateur.
@@ -29,8 +29,8 @@ En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Fran
 - [Une liste Wikipedia de site de partage de fichier](https://en.wikipedia.org/wiki/Category:File_sharing)
 
 ## Content
-- [VPNs](#vpns)
-    - [VPN Guides and Tutoriels](#vpn-guides-and-tutorials)
+- [VPN](#vpn)
+    - [VPN Guides et Tutoriels](#vpn-guides-et-tutoriels)
     - [Service D'abonnement VPN](#vpn-subscription-services)
     - [VPN auto-géré](#self-hosted-vpns)
 - [Extension Navigateur](#browser-extensions)
@@ -146,90 +146,90 @@ En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Fran
 - [Miscellaneous](#miscellaneous)
 - [Site web à éviter] (#Eviter)
 
-## VPNs
+## VPN
 
-### VPN Guides and Tutorials <!-- Lire et Traduire  -->
+### VPN Guides et Tutoriels 
 - [That One Privacy Site](https://thatoneprivacysite.net/vpn-section/) Partie comparateur de VPN de thatoneprivacysite 
 - [Choosing the best VPN (for you)](https://www.reddit.com/r/VPN/comments/4iho8e/that_one_privacy_guys_guide_to_choosing_the_best/?st=iu9u47u7&sh=459a76f2) That One Privacy Guy's - Guide pour choisir le meilleur VPN pour vous.
 - [/r/VPN wiki](https://www.reddit.com/r/VPN/wiki/index) FAQ sur les VPN par le /r/VPN
 - [Choisir le bon VPN pour vous](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Guide de EFF
 - [Quelle VPN vous garde Anonyme en 2018 ?](https://torrentfreak.com/vpn-services-keep-anonymous-2018/) Article de TorrentFreak par Ernesto
 - [privacytools.io](https://www.privacytools.io/) "Cryptage contre la surveillance de masse". Enormément d'information pour vous protégez sur internet.
-- [VPN over SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) Page ArchWiki decrivant comment faire un VPN du pauvre avec un tunnel SSH.
+- [VPN par SSH](https://wiki.archlinux.org/index.php/VPN_over_SSH) Page ArchWiki decrivant comment faire un VPN du pauvre avec un tunnel SSH.
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) Un endroit pour discuter de torrent (et le protocole P2P) en utilisant un VPN.
-- [Choisir son VPN le crabe.info] (https://lecrabeinfo.net/quel-vpn-choisir-en-2018-guide-debutants-gratuit-payant-meilleur-vpn.html) :FR: Guide pour choisir son VPN 
+- [Choisir son VPN le crabe.info] (https://lecrabeinfo.net/quel-vpn-choisir-en-2018-guide-debutants-gratuit-payant-meilleur-vpn.html) 🥖 Guide pour choisir son VPN 
 
-### VPN Subscription Services <!-- Lire et Traduire  -->
-- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Hugely popular subscription-based VPN provider with a proven track record for not keeping logs
-- [ProtonVPN](https://protonvpn.com/) High-speed Swiss VPN that safeguards your privacy.
-- [NordVPN](https://nordvpn.com/) With NordVPN, encrypt your online activity to protect your private data from hackers or snoopy advertisers.
-- [TunnelBear](https://www.tunnelbear.com/) Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & your browser.
-- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN with 256-bit encryption, 94 countries, and no logs. Also rated one of the fastest VPNs out there.
+### VPN Subscription Services 
+- [Private Internet Access](https://www.privateinternetaccess.com/) :star2: Un fournisseur de VPN très populaire connue pour ne pas garder de traces.
+- [ProtonVPN](https://protonvpn.com/) VPN suisse haut débit qui protège votre vie privée.
+- [NordVPN](https://nordvpn.com/) Avec NordVPN, vous chiffrez vos données personnelles pour les protéger des pirates ou d'annonceurs peu scrupuleux.
+- [TunnelBear](https://www.tunnelbear.com/) VPN vraiment simple pour naviguer sur le Web de manière privée et sécurisée. Permet de débloquer des sites quelque soit le support : Mac, IOs, Android, Windows et votre navigateur.
+- [ExpressVPN](https://www.expressvpn.com/vpnmentor1) VPN avec cryptage 256 bits, 94 pays et aucun journal. Classé comme l'un des VPN les plus rapides.
 
-### Self-hosted VPNs <!-- Lire et Traduire  -->
-- [n2n](https://github.com/ntop/n2n) Peer-to-peer VPN
-- [PeerVPN](https://peervpn.net/) PeerVPN is a software that builds virtual ethernet networks between multiple computers.
-- [OpenVPN](https://openvpn.net/) :star2: OpenVPN provides flexible VPN solutions to secure your data communications, whether it's for Internet privacy, remote access for employees, securing IoT, or for networking Cloud data centers.
-- [Pritunl](https://pritunl.com/) Enterprise Distributed OpenVPN and IPsec Server
-- [WireGuard VPN](https://www.wireguard.com/) WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec.
-- [sshuttle](https://github.com/sshuttle/sshuttle) Transparent proxy server that works as a poor man's VPN.
-- [ZeroTier](https://www.zerotier.com) Peer-to-peer multi-platform VPN
+### Self-hosted VPNs
+- [n2n](https://github.com/ntop/n2n) VPN Peer-to-peer
+- [PeerVPN](https://peervpn.net/) PeerVPN est un logiciel qui crée des réseaux Ethernet virtuels entre plusieurs ordinateurs.
+- [OpenVPN](https://openvpn.net/) :star2: OpenVPN fournit des solutions VPN flexibles pour sécuriser vos communications de données, que ce soit pour la confidentialité sur Internet, l'accès à distance pour les employés ou la mise en réseau de cloud.
+- [Pritunl](https://pritunl.com/) OpenVPN et serveur IPsec distribués pour les entreprises
+- [WireGuard VPN](https://www.wireguard.com/) WireGuard est un VPN extrêmement simple, rapide et moderne, utilisant unun cryptage à la pointe de la technologie. Il vise à être plus rapide, plus simple, plus léger et plus utile que IPSec.
+- [sshuttle](https://github.com/sshuttle/sshuttle) Un serveur proxy transparent, un espèce de VPN du pauvre.
+- [ZeroTier](https://www.zerotier.com) VPN peer-to-peer multi-platformes.
 
-## Browser Extensions <!-- Lire et Traduire  -->
-- [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation.
-- [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger blocks spying ads and invisible trackers.
-- [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
-- [uBlock Origin](https://github.com/gorhill/uBlock) :star2: An efficient blocker for Chromium and Firefox. Fast and lean.
-- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) Just another adblocker based on uBlock Origin.
-- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) An anti-Adblock defuser for Nano Adblocker and uBlock Origin.
-- [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) The world's most popular userscript manager
-- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
-- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
-- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
-- [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls
-- [Burlesco](https://burles.co/en/) Read news without subscribing, bypass the paywall
-- [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) Universal Bypass automatically skips annoying link shorteners.
-- [Violentmonkey](https://violentmonkey.github.io/) An open source userscript manager.
+## Browser Extensions 
+- [Decentraleyes](https://decentraleyes.org/) Protects against tracking with a local CDN (Content Delivery Network) emulation. <!-- Lire et Traduire  -->
+- [Privacy Badger](https://www.eff.org/privacybadger) Privacy Badger bloque les pubs espionnes ainsi que les trackers invisibles.
+- [HTTPS Everywhere](https://www.eff.org/https-everywhere) HTTPS Everywhere une extension Firefox, Chrome, et Opera qui permet de crypter vos communications avec beaucoup de sites, permettant une navigation plus sure.
+- [uBlock Origin](https://github.com/gorhill/uBlock) :star2: Un bloqueur de pud efficace pour Chromium et Firefox. Rapide et leger.
+- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) Un autre bloqueur de pub basé sur uBlock Origin.
+- [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) Un anti-Adblock pour Nano Adblocker et uBlock Origin.
+- [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) Le manager de script maison le plus populaire et utilisé.
+- [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) Configure le réseau WebRTC pour changer les parametre de confidentialité de Chrome.
+- [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) Une extension de navigateur qui permet de controler la sécurité de son navigateur de manière simple et intuitive.
+- [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) Permet d'activer les scripts uniquement sur les sites que vous avez approuvé. Vous protège des attaques XSS et du clickjacking. Firefox uniquement.
+- [Outline](https://chrome.google.com/webstore/detail/outline-read-without-clut/daoolpmoieinofbnddaofhkhmbagfmnj) Conçu pour retirer les pubs, commentaires et autres des sites de journaux et pertmet souvent de passer outre l'abonnement.
+- [Burlesco](https://burles.co/en/) Lisez les sites d'actus sans rien payer.
+- [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) Universal Bypass passe automatiquement les raccourciceurs de liens.
+- [Violentmonkey](https://violentmonkey.github.io/) Un manager de script maison Open-Source.
 
-## Userscripts <!-- Lire et Traduire  -->
-- [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Add links from IMDb pages to torrent sites -- easy downloading from IMDb
-- [AdsBypasser](https://adsbypasser.github.io/) This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
-- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites
-- [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
-- [AdGuard Popup Blocker](https://greasyfork.org/en/scripts/33396-adguard-popup-blocker) Blocks pop-up ads on web pages.
-- [openload](https://greasyfork.org/en/scripts/17665-openload) Remove anti-Adblock, ads, pop-ups, and timer waits, and show direct download link on OpenLoad.
-- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) some websites prevent you from copying text. this script bypasses it.
-- [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Add magnet link to torrentz2
-- [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
-- [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Direct link functionality for Google Drive
-- [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to new search
-- [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Add "View Image" button.
-- [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
-- [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
-- [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
-- [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) For use with CreamAPI and similar tools.
+## Userscripts 
+- [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout) Ajoute un lien vers un torrent pour chaque page IMDb 
+- [AdsBypasser](https://adsbypasser.github.io/) Ce script maison vous aide à passer certaines pubs et vous protège des pop-ups.
+- [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) Remove forced download accelerators, managers, and adware on supported websites <!-- Lire et Traduire  -->
+- [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) Ajoute un lien vers APKPure, APKMirror et Evozi quand vous naviquez sur Google Play.
+- [AdGuard Popup Blocker](https://greasyfork.org/en/scripts/33396-adguard-popup-blocker) Bloque les pops-ups.
+- [openload](https://greasyfork.org/en/scripts/17665-openload) Enlève les anti-Adblock, pub, pop-ups, les timers et vous donne un lien direct sur Openload.
+- [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) Certains sites vous empêche de copier du texte, ce script vous le permet.
+- [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) Ajoute des liens magnet au site torrentz2
+- [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) Ce script ajoute un bouton telecharger sur Google Scholar, Scopus, Web Of Science et sci-hub.tw.
+- [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052-google-drive-direct-links/feedback) Ajoute un lien de telechargment direct sur Google Drive
+- [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) Redirect Google reCAPTCHA to new search <!-- Lire et Traduire  -->
+- [Google Image "View Image" button](https://greasyfork.org/en/scripts/38953-google-image-view-image-button) Ajoute un bouton "regarder l'image" sur Google Image 
+- [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.  <!-- Lire et Traduire  -->
+- [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Intègre MyAnimeList sur plusieurs sites, avec un suivi episode par episode.
+- [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) Script that automatically hides fake torrents on The Pirate Bay based on conditional logic. <!-- Lire et Traduire  -->
+- [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) A utiliser avec CreamAPI ou autres.
 
-## Password Vaults <!-- Lire et Traduire  -->
-- [BitWarden](https://bitwarden.com/) :star2: Open source password management solution, can be self-hosted
-- [1Password](https://1password.com/) Popular cloud-hosted password manager
-- [KeePass](https://keepass.info/) free, open source, light-weight, and easy-to-use password manager.
+## Password Vaults 
+- [BitWarden](https://bitwarden.com/) :star2: Un gestionnaire de mot de passe Open source qui peut être auto-heberger.
+- [1Password](https://1password.com/) Un gestionnaire populaire dans le Cloud.
+- [KeePass](https://keepass.info/) Un gestionnaire, gratuit, open source, leger et facile à utiliser.
   - Android : [KeePassDroid](http://www.keepassdroid.com/)
   - iPhone : [MiniKeePass](https://minikeepass.github.io/)
   - Chrome / Firefox : [Tusk](https://subdavis.com/Tusk/)
   - Web App : [KeeWeb](https://keeweb.info/)
-- [LastPass](https://www.lastpass.com/) LastPass remembers all your passwords, so you don't have to.
-- [Pass](https://www.passwordstore.org/) Simple GPG/Git password manager. Follows the Unix philosophy.
-- [Dashlane](https://www.dashlane.com/) An intuitive password manager with over with over 8 million users worldwide.
-- [Passbolt](https://www.passbolt.com/) Free, open source, self-hosted, extensible, OpenPGP based.
-- [LessPass](https://lesspass.com/) stateless open source password manager
-- [Psono](https://psono.com/) Open source and self-hosted password manager for teams
+- [LastPass](https://www.lastpass.com/) LastPass se rapelle de vos mots de passes à votre place.
+- [Pass](https://www.passwordstore.org/) Un simple gestionnaire pour vos mots de passes GPG/GitSimple GPG/Git.Suis la phylosophie Unix.
+- [Dashlane](https://www.dashlane.com/) Un gestionnaire intuitif avec 8 million d'utilisateurs.
+- [Passbolt](https://www.passbolt.com/) Gratuit, open source, auto-hebergé, Free, extensible et basé sur OpenPGP.
+- [LessPass](https://lesspass.com/) Gestionnaire apatride et open source.
+- [Psono](https://psono.com/) Gestionnaire de mots de passes open source et auto-hebergé pour des équipes.
 
-## Antivirus <!-- Lire et Traduire  -->
-- [MalwareBytes](https://www.malwarebytes.com/) :star2: "crushes malware so you are protected and your machine keeps running smoothly."
-- [HitmanPro](https://www.hitmanpro.com) Antivirus product from Sophos
-- [VirusTotal](https://www.virustotal.com/) Web service for scanning files and URLs for viruses
-- [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Helpful HowToGeek article on cleaning out the pipes
-- [Avast Antivirus](https://www.avast.com) Avast Antivirus is a multi-platform antivirus application with a free tier. Be sure to opt out of sending anonymous usage statistics.
+## Antivirus 
+- [MalwareBytes](https://www.malwarebytes.com/) :star2: "écrase les logiciels malveillants afin que vous soyez protégé et que votre ordinateur continue à fonctionner."
+- [HitmanPro](https://www.hitmanpro.com) Antivirus produit par Sophos
+- [VirusTotal](https://www.virustotal.com/) Service en ligne pour scanner les virus de fichiers ou d'URL
+- [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) Article du site HowToGeek pour bien nettoyer son pc.
+- [Avast Antivirus](https://www.avast.com) Avast Antivirus est un antivirus multi-platforme avec une offre gratuite. Soyez sur de bien choisir de ne pas envoyer vos données cependant.
 
 ## Privacy <!-- Lire et Traduire  -->
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
@@ -244,21 +244,21 @@ En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Fran
 - [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) Destroy Windows Spying tool
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
 
-## Email <!-- Lire et Traduire  -->
-- [ProtonMail](https://protonmail.com/) Secure Email Based in Switzerland
-- [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
+## Email 
+- [ProtonMail](https://protonmail.com/) Service d'e-mail sécurisé basé en Suisse.
+- [10 Minute Mail](https://10minutemail.net/) Boite mail privé et jetable.
 - [Cock.li](https://cock.li/) Yeah it's mail with cocks
-- [Tutanota](https://tutanota.com/) Secure, open source email service
+- [Tutanota](https://tutanota.com/) Service mail sécurisé et open source.
 
-## Decentralised Networks <!-- Lire et Traduire  -->
-- [Tor](https://www.torproject.org/) :star2: Tor is free software and an open network that helps you defend against traffic analysis.
-- [I2P](https://geti2p.net/en/) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
-- [Freenet](https://freenetproject.org) Freenet is free software which lets you anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums, without fear of censorship.
-- [Zeronet](https://zeronet.io/) Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
+## Decentralised Networks
+- [Tor](https://www.torproject.org/) :star2: Tor est un logiciel gratuit et open source qui vous permet de vous proteger contre les analyses de trafiques
+- [I2P](https://geti2p.net/en/) I2Pis an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.<!-- Lire et Traduire  -->
+- [Freenet](https://freenetproject.org) Freenet est un logiciel gratuit qui vous laisse partager de manière anonyme des fichiers et des sites web (uniquement visible via freenet) de discuter sur des forums sans la craintes de censure.
+- [Zeronet](https://zeronet.io/) Site gratuit, ouvert, utilisant la cryptographie du bitcoin et son réseau.Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
 
-## Operating Systems <!-- Lire et Traduire  -->
-- [Qubes OS](https://www.qubes-os.org/) Qubes OS is a security-oriented operating system
-- [Tails](https://tails.boum.org/) Tails is a live operating system that you can start on almost any computer from a USB stick or a DVD.
+## Operating System
+- [Qubes OS](https://www.qubes-os.org/) Qubes OS est un système d'exploitation orienté sur la sécurité de son utilisateur.
+- [Tails](https://tails.boum.org/) Tails est un système d'exploitation live qui peut etre lancé depuis n'importe quelle ordinateur avec une clé usb ou un DVD. Il est aussi connu pour ne laisser aucune trace de son passage.
 
 ## Domain Names <!-- Lire et Traduire  -->
 - [Njalla](https://njal.la/) a privacy-aware domain registration service
