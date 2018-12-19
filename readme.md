@@ -47,7 +47,7 @@ En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Fran
     - [Trackers](#trackers)
         - [Trackers Privée](#private-trackers)
         - [Trackers Semi-Privé](#semi-private-trackers)
-        - [Trackers Publique](#public-trackers)
+        - [Trackers Publique](#publique-trackers)
     - [Aggregateur de Tracker](#tracker-aggregators)
     - [Proxies Tracker](#tracker-proxies)
     - [Invitation Tracker](#tracker-invites)
@@ -108,7 +108,7 @@ En plus de cela, vour pourrez remarquer une 🥖, ce sont pour les sites en Fran
 - [Logiciels](#software)
 - [Ebooks](#ebooks)
 - [Magazines](#magazines)
-- [Publication Académique](#academic-papers-and-material)
+- [publiqueation Académique](#academic-papers-and-material)
 - [Manuels Scolaire](#textbooks)
 - [Cours et Tuto](#courses-and-tutorials)
 - [Livre Audio](#audiobooks)
@@ -268,7 +268,7 @@ for any IP address.
 - [OpenLeaf](https://openleaf.net.ru/) Domain registrar for anonymous TLD purchases
 
 ## Torrenting <!-- Lire et Traduire  -->
-<!-- Faire une section ou sont expliqué les differents termes : indexeurs, aggrégateurs, tracker public/privé, torrent vérifié, seedbox, webtorrent client, lien magnet   -->
+<!-- Faire une section ou sont expliqué les differents termes : indexeurs, aggrégateurs, tracker publique/privé, torrent vérifié, seedbox, webtorrent client, lien magnet   -->
 - [/r/torrents](https://www.reddit.com/r/torrents) Questions and discussion about all things torrent-related
 - [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) Wikipedia's article on the BitTorrent file sharing protocol
 - [Live Tracer](https://trace.corrupt-net.org/live.php) Pre-time tracer for scene releases
@@ -281,7 +281,7 @@ for any IP address.
 - [torrents-csv.ml](https://torrents-csv.ml) The above torrents.csv hosted.
 
 ### Trackers 
-- [/r/trackers](https://www.reddit.com/r/trackers) :star2: Un subreddit pour discuter de trackers privé et public.
+- [/r/trackers](https://www.reddit.com/r/trackers) :star2: Un subreddit pour discuter de trackers privé et publique.
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) Un bon tracker necessite que vous seediez ce que vous avec telecharger. Ce quige explique plusieurs méthode pour garder un bon ratio.
 - [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) Une liste de Trackers privés et de compte BitTorrent à suivre sur Twitter.
 - [Bravo List](http://www.bvlist.com/) Un répertoire de Tracker.
@@ -327,13 +327,13 @@ for any IP address.
 - [ArenaBG](https://arenabg.com/) Un tracker bulgare avec une traduction en anglais disponible.
 - [NoNaMe Club](https://nnmclub.to/) Tracker  et un forum semi-privé russe
 
-#### Public Trackers <!-- Lire et Traduire  -->
+#### publique Trackers <!-- Lire et Traduire  -->
 - [1337x](https://1337x.to/) 1337x est un site de torrent qui offre des torrent vérifié (sans malware).
 - [ETTV](https://www.ettv.tv/) ETTV est un tracker pour les films.
 - [EZTV](https://eztv.ag/) EZTV est un site de toreent pour les emmissions de TV fondé par le groupe EZTV.
 - [Isohunt2](https://isohunt2.net/) Un clone de l'original isoHunt.
 - [KickAss Torrents](https://katcr.co/) Une réincarnation fait par la communauté en 2016
-- [RARBG](https://rarbg.to/) :star2: Tracker public avec son propre groupe de sortie.
+- [RARBG](https://rarbg.to/) :star2: Tracker publique avec son propre groupe de sortie.
 - [YTS](https://yts.am/) Film leger en HD de la scene YIFI
 - [The Pirate Bay](https://thepiratebay.org/) Il est temps de laisser ce site ne paix.
 - [The Proxy Bay](https://proxybay.bz/) Differents proxies pour acceder à TPB mais qui en a vraiment envie ... 
@@ -343,10 +343,10 @@ for any IP address.
 - [rutor](http://rutor.info/) Un tracker Russe.
 - [GloTorrents](https://glodls.to/) Film, TV, jeux et autres gratuitement.
 - [BTDB](https://btdb.to/) Un gros moteur de recherche pour DHT.
-- [trackerslist](https://github.com/ngosang/trackerslist) Une liste mise a jour de tracker public.
+- [trackerslist](https://github.com/ngosang/trackerslist) Une liste mise a jour de tracker publique.
 - [MagnetDL](http://www.magnetdl.com/) Moteur de recherche de lien magnet uniquement.
-- [TorrentGalaxy](https://torrentgalaxy.org/) Tracker public avec une interface propre.
-Public tracker with a clean UI
+- [TorrentGalaxy](https://torrentgalaxy.org/) Tracker publique avec une interface propre.
+publique tracker with a clean UI
 - [Games4theworld](https://games4theworld.org) Torrents et liens magnets pour les jeux.
  for games
 - [metal-tracker.com](http://en.metal-tracker.com/) Tracker spécialisé dans le metal.
@@ -363,17 +363,17 @@ Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk est un site de torrent founissant des torrents véfirié pour tous les genres de contenues.
 is a torrent site providing verified torrents for all kinds of content.
 - [HDSector](http://udush.com/) Film Bollywood / Hindi / Hollywood en HD
-- [OTorrents](https://otorrents.com/) Un autre tracker public.
+- [OTorrents](https://otorrents.com/) Un autre tracker publique.
 - [Torlock](https://www.torlock.com/) Torlock est un indexeurs de torrent et un moteur de recherche qui permet d'avoir les dernières emmissions TV et films.
 - [DIGBT](https://www.digbt.org/) DIGBT est un moteur de recherche de torrent DHT.
  is a DHT torrent search engine.
 - [Torrent9](https://www.torrent9.ph/) 🥖 Moteur de recherche Français.
  French torrent search engine
 - [YggTorrent](https://www3.yggtorrent.to/) 🥖 Tracker français avec un ratio à respecter. C'est le digne successeur de T411.
-- [WorldWide Torrents](https://worldwidetorrents.me/) Un autre tracker public.
+- [WorldWide Torrents](https://worldwidetorrents.me/) Un autre tracker publique.
 
 ### Tracker Aggregators 
-- [snowfl](https://snowfl.com/) snowfl est un aggregateur de torrent avec des indexeurs de torrent public très varié toujours en temps réel.
+- [snowfl](https://snowfl.com/) snowfl est un aggregateur de torrent avec des indexeurs de torrent publique très varié toujours en temps réel.
 - [TParser](http://tparser.org/) Indexeur de site de torrent Russe.
 - [Torrents.me](https://torrents.me/) Torrents.me combine site de torrent populaire et tracker privé spécialisé dans un moteur de recherche.
 - [rats-search](https://github.com/DEgITx/rats-search) Moteur de recherche P2P Bittorrent
@@ -387,7 +387,7 @@ is a torrent site providing verified torrents for all kinds of content.
 
 ### Tracker Invites
 - [/r/OpenSignups](https://www.reddit.com/r/opensignups) Un subreddit pour etre prévenu lorsque les trackers privés ouvrent leurs inscription.
- When Private Trackers Open Their Doors To The Public
+ When Private Trackers Open Their Doors To The publique
 - [/r/Invites](https://www.reddit.com/r/invites) Un subreddit pour demander une invitation a un tracker privé bien précis.
 - [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) Un thread sur /r/trackers pour connaitre les trackers ouverts aux inscription.
  for posting trackers that are currently open for registration.
@@ -527,7 +527,7 @@ Another seedbox setup script
 - [alt.binz](https://www.altbinz.net/) alt.binz is a powerful binary newsreader, for downloading and managing articles from Usenet.
 
 ## Direct Downloads
-<!-- Idem que pour la catégories TORRENT fair un peu de terminologie etc   -->
+<!-- Idem que pour la catégories TORRENT faire un peu de terminologie etc   -->
 
 ### Download Managers 
 - [JDownloader2](http://www.jdownloader.org/home/index) :star2: JDownloader est un gestionnaire de telechargement gratuit, open source avec une grande communauté de developpeur qui font en sorte que le telechargement soit simple et rapide.
@@ -538,10 +538,10 @@ Another seedbox setup script
 ### DDL Tools
 - [youtube-dl](https://rg3.github.io/youtube-dl/) :star2: youtube-dl est un programme en ligne de commande pour telecharger des videos depuis youtube et certains autres sites.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) Une interface multi-plateform pour youtube-dl ecrit en wxPython.
-- [youtube-dl-helper](https://youtube-dl-helper.github.io/) Utilise youtube-dl pour telecahrger depuis d'autres sites sans utiliser de ligne de commandes.
+- [youtube-dl-helper](https://youtube-dl-helper.github.io/) Utilise youtube-dl pour telecharger depuis d'autres sites sans utiliser de ligne de commandes.
 - [YouTube MP3 Rip](https://youtubemp3.rip/) Permet de telecharger des musiques sur Youtube en MP3 sans enregistrement.
 - [Leonflix](https://leonflix.net/) :star2: Une application muti-platform pour trouver des films et des emmissions TV.
-- [maulvi.github.io](https://maulvi.github.io/) Generateur de lien de telecahrgment direct Google Drive
+- [maulvi.github.io](https://maulvi.github.io/) Generateur de lien de telechargment direct Google Drive
 - [RapidLeech](https://github.com/Th3-822/rapidleech) Un script gratuit pour transferer des fichiers de plusieurs sites comme uploaded.net, Rapidgator.net et plus de 127 autres.
 - [megatools](https://github.com/megous/megatools) Un outils en ligne de commande et une librairie C(libmega) pour acceder au cloud de Mega.co.nz
 - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) MegaCrypt.js vous permet de partager vos fichier Mega.nz sans partager le lien directment en cryptant les liens avec des serveurs proxies.
@@ -555,7 +555,7 @@ Another seedbox setup script
 - [uGet](https://ugetdm.com/) Gestionnaire de telechargement open source 
 - [ripme](https://github.com/RipMeApp/ripme) Un gestionnaire de telechargement d'album ou de film supporté par 80 sites.
 - [rdcli](https://github.com/ston3o/rdcli) La manière la plus simple de telecharger sans restriction torrent et lien magnets sur Real-Debrid. 
-- [get_iplayer](https://github.com/get-iplayer/get_iplayer) Un utilitaire pour telecahrger des programmes TV ou radio de la BBC via leur iPlayer.
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer) Un utilitaire pour telecharger des programmes TV ou radio de la BBC via leur iPlayer.
 - [MEGAsync](https://mega.nz/sync) Un synchronisateur entre votre PC et votre compte MEGA. Peut aussi stream les videos directement.
 - [wget](https://www.gnu.org/software/wget/) `wget` est un outils gratuit et open source pour telecharger en utilisant les protocoles HTTP, HTTPS, FTP et FTPS. Il peut etre facilement appeller par des scripts ou autres.
 - [wget - a noob's guide](https://chris.partridge.tech/data/wget-noobs.pdf) Un guide de débutant pour `wget`
@@ -573,66 +573,66 @@ Another seedbox setup script
 - [Musgle](http://www.musgle.com/) Recherche spécifique pour la musique.
 - [Jimmyr](http://www.jimmyr.com/mp3_search.php) Permet aussi de chercher de la musique.
 
-### FTP Indexers <!-- Lire et Traduire  -->
-- [Davos](https://github.com/linuxserver/davos) Web-based FTP automation for Linux servers.
-- [Napalm FTP Indexer](https://www.searchftps.net/) NAPALM FTP Indexer lets you search and download files located on public FTP servers.
-- [Mamont's open FTP Index](http://www.mmnt.net/) Browsable directory listing of publicly available FTP-sites
+### FTP Indexers 
+- [Davos](https://github.com/linuxserver/davos) Automatisation FTP orienté web pour les serveurs Linux.
+- [Napalm FTP Indexer](https://www.searchftps.net/) NAPALM FTP Indexer vous permet de chercher et telecharger sur des serveurs FTP publique.
+- [Mamont's open FTP Index](http://www.mmnt.net/) Un repertoire listant les sites FTP publique. 
 
-### DDL Search Engines and Crawlers <!-- Lire et Traduire  -->
-- [ololo](https://ololo.to/) ololo is a video streaming link search engine.
-- [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
-- [VideoSpider](https://videospider.in/) VideoSpider crawls various websites and search engines to find movie and TV episode streaming links
-- [Orion](https://orionoid.com/) Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
-- [Alluc](https://w1.alluc.uno/) Search engine with over 80 million streaming-links from over 700 VOD services, video hosters, and file-hosters
-- [OD-Database](https://od-db.the-eye.eu/) Database of searchable open directories curated by The-Eye.eu
-- [IPLIVE](https://iplive.club/) DDL search engine
+### DDL Search Engines and Crawlers 
+- [ololo](https://ololo.to/) ololo est un moteur de recherche de lien de streaming.
+- [MegaSearch](http://megasearch.co) Moteur de recherche pour trouver du contenue hebergé par MEGA ou autre site comme OpenLoad.
+- [VideoSpider](https://videospider.in/) VideoSpider parcours differents sites et moteur de recherche et trouve les liens de streaming de films ou d'emmisisons TV
+- [Orion](https://orionoid.com/) Orion est un indexeurs de metadata et de liens de sites et réseaux publiques, ce qui inculs les torrent, Usenet et les indexes d'hebergeur.
+- [Alluc](https://w1.alluc.uno/) Moteur de recherche avec plus de 80 millions de lien de streaming depuis 700 sites de VOD, d'hebergeur vidéo ou de fichiers.
+- [OD-Database](https://od-db.the-eye.eu/) Moteur de recherche dans une base de données de répertoire publique par The-Eye.eu.
+- [IPLIVE](https://iplive.club/) Moteur de recherche de lien de telechargement direct.
 
-### DDL Link Sites <!-- Lire et Traduire  -->
-- [/r/megalinks](https://www.reddit.com/r/megalinks) Links to files on Mega. Has now moved to snahp.it
-- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Google Drive Download Links
-- [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
-- [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
-- [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
+### DDL Link Sites 
+- [/r/megalinks](https://www.reddit.com/r/megalinks) Telechargement direct depuis MEGA, mais a du fermer ses portes et bouger vers https://forum.snahp.it/ Il existe e nplus de cela une sauvegarde du sub. <!-- Ajouter save sub  -->
+- [/r/GDriveLinks](https://www.reddit.com/r/GDriveLinks/) Telechargement direct depuis Google Drive, lui aussi menacé.
+- [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) Telechargement direct depuis ZippyShare
+- [DirtyWarez Forum](https://forum.dirtywarez.com/) Un site de warez populaire : Film, emmission TV, ebook, anime, jeux video etc.
+- [snahp.it](https://snahp.it/) :star2: Remplacent de /r/megalinks
 - [hdencode](https://hdencode.com/)
-- [Movies "R" Us](moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
+- [Movies "R" Us](moviesrus.tk) Les dernier films en 1080p. Disponible en telechargement par MediaFire ou en streaming via AnonFile.
 - [Movie Glide](https://www.movieglide.com/)
 - [Release BB](http://rlsbb.ru)
-- [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
-- [AdiT-HD](http://adit-hd.com/) direct download site
-- [TwoDDL](http://2ddl.ws) Direct download links
+- [DDLValley](https://www.ddlvalley.me/) Telechargement direct : Film, emmission TV, ebook, anime, jeux video etc.
+- [AdiT-HD](http://adit-hd.com/) Site telechargement direct
+- [TwoDDL](http://2ddl.ws) Site telechargement direc
 - [RapidMoviez](http://rmz.cr/)
-- [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
-- [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new release of software, games, music, movies, and eBooks.
+- [SceneSource](https://scnsrc.me/) Site WordPress sur l'actu de la scene.
+- [SoftArchive](https://sanet.st/full/) SoftArchive ou SA est un site de parution de contenue, connue pour les films, les jeux, la musique et les ebooks.
 - [MkvCage](https://www.mkvcage.ws/)
-- [MovieFiles](https://moviefiles.org/) Direct download search engine which generates Google Drive links
-- [IceFilms.info](https://www.icefilms.info/) Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
-- [DownArchive](http://downarchive.org/) DDL blog with premium links on a number of hosts. Lots of software
-- [PSARips](https://psarips.com/) Popular site for movies and TV shows, includes torrent files
-- [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) Pastebin user who uploads premium links for TV shows
-- [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
+- [MovieFiles](https://moviefiles.org/) Moteur de recherche de lien de telechargment direct avec un generation de lien Google Drive.
+- [IceFilms.info](https://www.icefilms.info/) Un autre site de telechargment direct avec des films et emmissions TV sur FileUpload, GoUnlimited, Filecandy etc.
+- [DownArchive](http://downarchive.org/) Blog de lien de telechargement direct avec des comptes premiums sur la pluspart des hebergeurs. De nombreux logiciels disponibles.
+- [PSARips](https://psarips.com/) Site populaire pour les films et emmisisons TV, inclue aussi des torrent.
+- [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) Pastebin d'un utilisateurs qui upload des liens premium pour les emmissions de TV.
+- [AvaxHome](https://avxhm.se)  Un autre site de telechargment directavec des eBooks, TV, films, magazines, logiciels, comics, journaux, jeux etc.
 - [Moviesleak](https://moviesleak.net/)
-- [Dospelis](https://www.dospelis.net) Spanish DDL indexer
+- [Dospelis](https://www.dospelis.net) Indexeur de telechargement direct Espagnol.
 - [Vidics](https://www.vidics.to/)
 - [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
 - [watchtvseries](http://watchtvseries.unblckd.club/)
 - [tvbox](https://tvbox.unblocked.gdn/)
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
-- [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
-- [Movie-blog.org](http://movie-blog.to/) German site for movies
-- [Movieworld.to](http://movieworld.to/) Another German site for movies
-- [DDL-Warez](https://ddl-warez.to/) German site for movies, shows, books and games
-- [DDL-Music](https://ddl-music.to/) German site for music
-- [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
-- [480mkv](http://480mkv.com/) 480p DDL for TV Shows
+- [filewarez.tv](https://filewarez.tv/) Invitation seulement, heberge sur Mega et Google Drive pour des emmisisons Tv
+- [Movie-blog.org](http://movie-blog.to/) Site Allemand spécialisé en films
+- [Movieworld.to](http://movieworld.to/) Un autre site Allemand spécialisé en films
+- [DDL-Warez](https://ddl-warez.to/) Site Allemand spécialisé en films, emmisisons TV, jeux etc
+- [DDL-Music](https://ddl-music.to/) Site Allemand spécialisé en musique 
+- [AppNee Freeware Group](https://appnee.com/) Un gros site de telechargement direct ebooks, logiciel, jeux, système d'exploitation etc.
+- [480mkv](http://480mkv.com/) Telechargement direct d'emmisisons TV en 480p 
 
-### Premium Link Generators <!-- Lire et Traduire  -->
-- [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) frequent updates.
-- [Real-Debrid](https://real-debrid.com/) :star2: Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player
-- [Premiumize](https://www.premiumize.me/) Combine direct and secure access to
-premium services
-- [OffCloud](https://offcloud.com/?=85a8b709) A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
-- [Reevown](https://reevown.com/) A free download service with which you can perform premium downloads.
+### Premium Link Generators 
+- [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) Ce site a pour but d'avoir la plus grandes listes d'hebergeur pour sa génération de lien premium. Il permet aussi de telecharger des torrent et plus. Le site possède des mises à jour fréquentes.
+- [Real-Debrid](https://real-debrid.com/) :star2: Real-Debrid permet de telecharger n'importe quelle fichier sur Internet ou de l'avoir instantanément en streaming dans un lecteur vidéo dédié.
+- [Premiumize](https://www.premiumize.me/) Combine l'accés direct et la sécurité a des services premium.
+- [OffCloud](https://offcloud.com/?=85a8b709) Un simple et intuitif SaaS pour retrouver n'importe quelle données d'un le cloud.
+- [Reevown](https://reevown.com/) Un service de telechargement gratuit qui permet d'avoir des lien premium. 
+- [Tout-Debri](https://tout-debrid.com/index.php) 🥖 Un generateur de lien premium en passant des pubs (normallement si vous avez lu jusque la vous devriez pas trop etre embeter par les pubs ;) )
 
 ### Premium Link Hosts <!-- Lire et Traduire  -->
 - [Mega](https://mega.nz/) :star2:
@@ -641,15 +641,15 @@ premium services
 - [4shared](https://www.4shared.com/)
 - [Mediafire](https://www.mediafire.com/)
 - [Sendspace](https://www.sendspace.com/)
-- [Uploaded](https://uploaded.net/)
-- [Zippyshare](https://www.zippyshare.com/)
+- [Uploaded](https://uploaded.net/) 
+- [Zippyshare](https://www.zippyshare.com/) 
 - [NitroFlare](http://nitroflare.net/)
 - [PutLocker](https://www5.putlockertv.to/)
 
 ### Open Directories <!-- Lire et Traduire  -->
 - [httpdirfs](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
-- ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Thorough post from /u/ElectroXexual
-- [The Eye](https://the-eye.eu/public/) :star2: The Eye is a non-profit website dedicated to content archival and long-term preservation.
+- ["All resources I know related to Open Directories"](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) Post approfondie de /u/ElectroXexual
+- [The Eye](https://the-eye.eu/publique/) :star2: The Eye is a non-profit website dedicated to content archival and long-term preservation.
 - [The Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) Posted by /u/shadow_hunter104
 - [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue_star_
 - [FileMasta](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
@@ -657,8 +657,8 @@ premium services
 - [opendirectories-bot](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
 - [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
 
-### Streaming Sites <!-- Lire et Traduire  -->
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/) :star2: Huge list by /u/nbatman
+### Streaming Sites
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/) :star2: Une grande liste de /u/nbatman
 
 #### HD Streaming <!-- Lire et Traduire  -->
 - [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
@@ -910,7 +910,7 @@ premium services
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM/ISO_Sites) Wiki page from gametechwiki.com with more links
 - [Romulation.net](https://www.romulation.net/) collection of ~28,000 console game ROMs
-- [The Eye ROMs](http://the-eye.eu/public/rom/) open directory of ROMs from The Eye
+- [The Eye ROMs](http://the-eye.eu/publique/rom/) open directory of ROMs from The Eye
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old game search engine. (avoid ISO Zone links, as that site is dead)
 - [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs.
@@ -964,7 +964,7 @@ premium services
 ## Music <!-- Lire et Traduire  -->
 - [MOOVAL](https://www.mooval.de/) Easily move your playlists, tracks, and likes from one streaming service to another.
 - [Madsonic](madsonic.org) Madsonic is a web-based media library and media streamer with jukebox functionality.
-- [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.
+- [MusicBrainz](https://musicbrainz.org/) MusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the publique.
 - [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
@@ -1027,7 +1027,7 @@ premium services
 - [/r/MSToolkit](https://www.reddit.com/r/mstoolkit) Tools for activating Windows software, including Windows 10 itself
 - [Windows 10 Digital License](https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/?tab=comments#comment-1327529) Advanced tutorial from s1ave77 on activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
 - [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
-- [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
+- [TechBench](https://tb.rg-adguard.net/publique.php) Find official Windows isos for Windows 7/8/10
 
 ## Ebooks <!-- Lire et Traduire  -->
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
@@ -1048,7 +1048,7 @@ premium services
 
 ## Academic Papers and Material <!-- Lire et Traduire  -->
 - [LibGen](http://libgen.io/) search engine for articles and books on various topics, which allows free access to content that is otherwise paywalled or not digitized elsewhere
-- [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and public access to tens of millions of research papers
+- [Sci-Hub](https://sci-hub.tw/) the first pirate website in the world to provide mass and publique access to tens of millions of research papers
 - [BookSC](http://booksc.org/) The world's largest scientific articles store. 50,000,000+ articles for free.
 - [Academic Torrents](http://academictorrents.com/) A Community-Maintained Distributed Repository for researchers, by researchers. Making 32.66TB of research data available!
 
@@ -1295,7 +1295,7 @@ premium services
 - [FlylinkDC++](http://www.flylinkdc.com/) Windows DC++ and BitTorrent client in active development, with ADC and DHT support.
 - [EiskaltDC++](https://github.com/eiskaltdcpp/eiskaltdcpp) Windows/Linux/macOS DC++ client, with ADC and DHT support
 - [LinuxDC++](https://launchpad.net/linuxdcpp) Utilizing the latest DC++ core, LinuxDC++ offers similar functionality to the Windows client like segmented downloading, TTH based file integrity, etc. with a GTK+ user interface.
-- [Tankafett](http://tankafett.biz/?do=hublist) List of public DC++ hubs, previously known as hublist.org and TheHubList.com.
+- [Tankafett](http://tankafett.biz/?do=hublist) List of publique DC++ hubs, previously known as hublist.org and TheHubList.com.
 - [Linux DC++](https://launchpad.net/linuxdcpp) Easy to configure and use DC++ client
 
 ## Full Movies On <!-- Lire et Traduire  -->
@@ -1315,7 +1315,7 @@ premium services
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 
 ## Piracy Blogs and News <!-- Lire et Traduire  -->
-- [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
+- [TorrentFreak](https://torrentfreak.com) :star2: TorrentFreak is a publiqueation dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
 - [TechWorm](https://www.techworm.net) Techworm is a Tech, Cyber-security news platform.
 
 ## Content Discovery <!-- Lire et Traduire  -->
@@ -1393,7 +1393,7 @@ premium services
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License <!-- Lire et Traduire  -->
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publiquedomain/zero/1.0)
 
 To the extent possible under law, Igglybuff has waived all copyright and
 related or neighboring rights to this work.
